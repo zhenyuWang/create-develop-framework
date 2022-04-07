@@ -1,0 +1,43 @@
+{
+  "name": "create-front-end-develop-framework",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "A tool to quickly create scaffolding for front-end development frameworks",
+  "keywords": [
+    "front-end",
+    "frameworks",
+    "cli"
+  ],
+  "license": "MIT",
+  "bin": {
+    "create-front-end-develop-framework": "./bin/index.js"
+  },
+  "main": "./bin/index.js",
+  "author": "running snail <13641039885@163.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhenyuWang/create-front-end-develop-framework"
+  },
+  "homepage": "https://github.com/zhenyuWang/create-front-end-develop-framework",
+  "bugs": {
+    "url": "https://github.com/zhenyuWang/create-front-end-develop-framework/issues"
+  },
+  "files": [
+    "bin",
+    "lib",
+    "questions",
+    "utils",
+    "package.json",
+    "README.md",
+    "README.zh-CN.md"
+  ],
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.0.0",
+    "execa": "^6.1.0",
+    "inquirer": "^8.2.1",
+    "minimist": "^1.2.5",
+    "prettier": "^2.5.1",
+    "validate-npm-package-name": "^3.0.0"
+  }
+}
