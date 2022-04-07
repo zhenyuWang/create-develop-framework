@@ -1,10 +1,10 @@
-# Welcome to create-front-end-develop-framework 👋
+# Welcome to create-develop-framework 👋
 
 Read this in other languages: English | [简体中文](./README.zh-CN.md)
 
 ## Introduce
 
-A tool to quickly create scaffolding for front-end development frameworks.
+A tool to quickly create scaffolding for development frameworks.
 
 ## Feature
 
@@ -16,11 +16,11 @@ A tool to quickly create scaffolding for front-end development frameworks.
 
 ## Install
 ```bash
-npm install create-front-end-develop-framework -g
+npm install create-develop-framework -g
 ```
 ## Usage
 ```bash
-create-front-end-develop-framework create
+create-develop-framework create
 ```
 ## License
 

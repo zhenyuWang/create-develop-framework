@@ -1,4 +1,4 @@
-# 欢迎来到 create-front-end-develop-framework 👋
+# 欢迎来到 create-develop-framework 👋
 
 使用其他语言阅读: [English](./README.md) | 简体中文
 
@@ -16,11 +16,11 @@
 
 ## 安装
 ```bash
-npm install create-front-end-develop-framework -g
+npm install create-develop-framework -g
 ```
 ## 使用
 ```bash
-create-front-end-develop-framework create
+create-develop-framework create
 ```
 ## 协议
 
